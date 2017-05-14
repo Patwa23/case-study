@@ -1,0 +1,21 @@
+{
+	"Reviews": [{
+		"Ratings": {
+			"Overall": "5.0"
+		},
+		"AuthorLocation": "Santa Barbara USA",
+		"Title": "\u201cPerfect in every way\u201d",
+		"Author": "MikeCSantaBarbaraUSA",
+		"ReviewID": "UR3279748",
+		"Content": "I read a recent Zagat survey which gave the Georges V the best rating in the world. I would wholeheartedly concur. I have stayed at many great hotels, though not all, and it is difficult to imagine how the Georges V could be better. My wife and I thought about it afterwards and there was not one thing we would have changed or had them do differently. It was as perfect as perfect could be. This was our second stay at the hotel and both were total perfection. We have stayed at some of the oriental hotels known for top of the world servce, but none compares, not even the Peninsula in Hong Kong. When you add onto all of this the fact Le Cinq (Michelin rates as best restuarant in Paris) is in the hotel, what more could you ask? Yes, it is damn expensive, but the value is there.",
+		"Date": "March 17, 2005"
+	}],
+	"HotelInfo": {
+		"Name": "Four Seasons Hotel George V Paris",
+		"HotelURL": "/ShowUserReviews-g187147-d188975-Reviews-Four_Seasons_Hotel_George_V_Paris-Paris_Ile_de_France.html",
+		"Price": "$1,117 - $1,",
+		"Address": "<address> <span rel=\"v:address\"> <span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">31 Av George V</span> | <span class=\"extended-address\">8th Arr.</span>, <span class=\"locality\"><span property=\"v:postal-code\">75008</span> <span property=\"v:locality\">Paris</span></span>, <span class=\"country-name\" property=\"v:country-name\">France</span> </span> </span> </address>",
+		"HotelID": "2514817",
+		"ImgURL": "http://media-cdn.tripadvisor.com/media/photo-f/01/fc/d7/4d/four-seasons-hotel-george.jpg"
+	}
+}

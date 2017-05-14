@@ -1,0 +1,28 @@
+{
+	"Reviews": [{
+		"Ratings": {
+			"Service": "3",
+			"Cleanliness": "4",
+			"Business service (e.g., internet access)": "3",
+			"Check in / front desk": "2",
+			"Overall": "2.0",
+			"Value": "3",
+			"Rooms": "3",
+			"Location": "3"
+		},
+		"AuthorLocation": "Switzerland",
+		"Title": "\u201cLet's get real - not a great experience\u201d",
+		"Author": "DMFG",
+		"ReviewID": "UR7007856",
+		"Content": "OK, I am here during Bike Week and I'm here for business, not for the beach or the bikes, but let's be realistic about this hotel. Maybe by the standards of Daytona Beach it's good, but it doesn't rate on any international scale. Fine, I arrived at 2 am but there was no welcome - I had to wander around the lobby trying to find someone and when I did they weren't too pleased to see me! Before I got that far, I had had trouble finding somewhere to park - there was clearly no valet service at that hour but also no indication of where one might park oneself - I found myself in a rather sinister underground carpark, clearly not intended for guests! My room was fine, nothing special but clean and quite acceptable - apart from being on the road side - the constant noise of passing Harley Davidsons, even at 4am, became more than irritating but I recognise that I have the misfortune to have to be here at an unusual period. A minor detail - it would be nice to have tea as well as coffee in the room, and to have all the lights working. I think my less-than-total satisfaction with this place is linked to a number of things: I certainly wouldn't describe the decor as cool, trendy, up-to-the minute or anything of the sort. The public areas are dark and gloomy and the signing is poor. Waiting for elavators takes a lifetime. The gym is worse than one finds in a budget hotel. The staff are superficially friendly but the actual service is pretty standard - that is to say, not great. The restaurant is to my mind disgraceful. I knew the moment I saw that the first member of staff to approach me was toting two blue bottles of designer water that I was in for an exercise in form-over-substance. My soup was a tasteless glue and my main course a piece of over-cooked fish with an over-salted crust, a garnish which was like eating hairs and a combination of two gluey sauces. What I wouldn't have given for a piece of fresh, lightly-grilled fish with some vegetables? What can I say about the absolutely disgusting 'monkey bread'? Over-flavored with thyme and rosemary - herbs that should never be partnered - AND cheese (!) and served with not just olive oil but also balsamic vinegar and black pepper - someone needs to tell the chef less can be more and good food doesn't need this kind of overkill. I wouldn't eat breakfast in the hotel either because one should only provide table serivice - as opposed to buffet - if the service is prompt and efficient - which it isn't. The shop is staffed by a delightful lady but didn't cut it as a hotel shop - no books, magazines, sundries, drinks, cigarettes - nor as a resort boutique - too small, not enough merchandise. All in all I was grateful to find a room at this busy time but wouldn't dream of coming back to stay here except for business, and then only in an ocean-front room. And a last word of warning for anyone under 5ft 19ins - the chairs on the restaurant terrace are so low you will almost have your chin on the table!",
+		"Date": "March 9, 2007"
+	}],
+	"HotelInfo": {
+		"Name": "Shores Resort and Spa",
+		"HotelURL": "/ShowUserReviews-g34172-d84333-Reviews-Shores_Resort_and_Spa-Daytona_Beach_Florida.html",
+		"Price": "$119 and up*",
+		"Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2637 South Atlantic Avenue</span>, <span class=\"locality\"><span property=\"v:locality\">Daytona Beach</span>, <span property=\"v:region\">FL</span> <span property=\"v:postal-code\">32118</span></span> (Formerly Hilton Daytona Beach Oceanfront Resort)</span></span></address>",
+		"HotelID": "84333",
+		"ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/01/aa/78/b5/exterior.jpg"
+	}
+}

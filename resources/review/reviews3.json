@@ -1,0 +1,28 @@
+{
+	"Reviews": [{
+		"Ratings": {
+			"Service": "4",
+			"Cleanliness": "5",
+			"Business service (e.g., internet access)": "4",
+			"Check in / front desk": "3",
+			"Overall": "3.0",
+			"Value": "3",
+			"Rooms": "4",
+			"Location": "3"
+		},
+		"AuthorLocation": "California",
+		"Title": "\u201cA good find\u201d",
+		"Author": "pixiedreamer",
+		"ReviewID": "UR6358331",
+		"Content": "This place is oddly placed on the map or at least to get to it but overall, it was decent. I wasn't ever worried about loud neighbors or too much traffic even if it is off the highway. the only place I ever heard the traffic was in the bathroom but the window was open, so... it was quiet other than that. the little ponds and decor had a japanese feel to it. it was very nice, great price, and close to two freeways. Not much around the hotel but if you have a car, you can get around and it's not that far from places (the longest drive I communted was probably 30 minutes). Nice for couples and families, not so great for frat parties. I'd definitely stay here again.",
+		"Date": "December 10, 2006"
+	}],
+	"HotelInfo": {
+		"Name": "BEST WESTERN PLUS Eagle Rock Inn",
+		"HotelURL": "/ShowUserReviews-g32655-d76790-Reviews-BEST_WESTERN_PLUS_Eagle_Rock_Inn-Los_Angeles_California.html",
+		"Price": "$95 - $97*",
+		"Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">2911 Colorado Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90041</span></span> </span></span></address>",
+		"HotelID": "76790",
+		"ImgURL": "http://media-cdn.tripadvisor.com/media/ProviderThumbnails/dirs/e9/aa/e9aaacbae65b2c1a0509e902aee969571large.jpg"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"Reviews": [{
+		"Ratings": {
+			"Overall": "3.0"
+		},
+		"AuthorLocation": "Moscow, ID",
+		"Title": "\u201creasonable value for near-airport accommodations\u201d",
+		"Author": "roam-ID",
+		"ReviewID": "UR2696526",
+		"Content": "Stayed here on business. Seemed like a decent value for the area but don't expect anything above average, just basic clean accommodations with the usual amenities, including in-room coffee. Not a bad place, considering it's in a highly commercial/industrial area. The complimentary shuttle to the airport runs every 20 minutes, which was very convenient. Down-side: street noise; housekeeping staff ignore \"do not disturb\" sign, knock on the door and barge in mid-afternoon saying \"room check\" whatever that means; my room was no-smoking on a no-smoking floor but still had an odd smell. Fitness room and pool are oddly located. You have to go out into the garage and re-enter the hotel through another door, which is inconvenient.",
+		"Date": "October 11, 2004"
+	}],
+	"HotelInfo": {
+		"Name": "Holiday Inn Los Angeles International Airport",
+		"HotelURL": "/ShowUserReviews-g32655-d77923-Reviews-Holiday_Inn_Los_Angeles_International_Airport-Los_Angeles_California.html",
+		"Price": "$121 - $171*",
+		"Address": "<address><span rel=\"v:address\"><span dir=\"ltr\"><span class=\"street-address\" property=\"v:street-address\">9901 La Cienega Boulevard</span>, <span class=\"locality\"><span property=\"v:locality\">Los Angeles</span>, <span property=\"v:region\">CA</span> <span property=\"v:postal-code\">90045</span></span> </span></span></address>",
+		"HotelID": "77923",
+		"ImgURL": "http://media-cdn.tripadvisor.com/media/photo-s/02/25/22/b0/hotel-exterior.jpg"
+	}
+}
